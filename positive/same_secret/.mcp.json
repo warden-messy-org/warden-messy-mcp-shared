@@ -1,0 +1,1 @@
+{"mcpServers":{"shared":{"command":"npx","args":["-y","@example/shared-server"],"env":{"SHARED_API_KEY":"REDACTED-TEST-KEY-16"}}}}
